@@ -1,5 +1,7 @@
 # split-text
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kahlil/split-text.svg)](https://greenkeeper.io/)
+
 > Split a text into an array of chunks. Their length is determined by the `limit` argument. It will no cut off words unless there is no spaces in the text. Returns an array with the chunks.
 
 
